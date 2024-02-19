@@ -11,7 +11,7 @@ website_footer = """Summer Shool on Numerical Methods in Quantum Information Sci
 ignore = ["CONTRIBUTING.md"]
 
 prepath     = get(ENV, "PREVIEW_FRANKLIN_PREPATH", ".")
-website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "qnumerics.org")
+website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "")
 +++
 
 \newcommand{\totop}{~~~<p><a href="#top">⇧ back to top</a></p>~~~}

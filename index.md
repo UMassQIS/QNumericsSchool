@@ -146,32 +146,34 @@
     @@row
       @@col-md
         ~~~
-        <img src="./assets/logo-umass.png">
+        <img src="./assets/UMassAmherst_longform-RGB.png" style="max-height:60pt;">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/cqn-logo.png" style="background-color:black;">
+        <img src="./assets/friends/cqn-logo.png" style="background-color:black; max-height:50pt;">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/mit-logo.png">
+        <img src="./assets/friends/mit-logo.png" style="max-height:40pt;">
+        ~~~
+      @@
+    @@
+    @@row
+      @@col-md
+        ~~~
+        <img src="./assets/friends/juliac-logo.png" style="max-height:40pt;">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/juliac-logo.png">
+        <img src="./assets/friends/quera-logo.svg" style="background-color:black; max-height:30pt;">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/quera-logo.svg" style="background-color:black;">
-        ~~~
-      @@
-      @@col-md
-        ~~~
-        <img src="./assets/friends/nsf-logo.png">
+        <img src="./assets/friends/nsf-logo.png" style="max-height:50pt;">
         ~~~
       @@
 
