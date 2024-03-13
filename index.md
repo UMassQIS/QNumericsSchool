@@ -4,7 +4,7 @@
     ~~~
     <img src="./assets/qnumerics-logo.png" style="max-width:60%;padding-bottom:20px"/>
     <h2>Numerical Methods <br>in Quantum Information Science</h2>
-    Summer School at the Mount Ida campus of University of Massachusetts Amherst<br>(a satellite campus on the outskirts of Boston)
+    Summer School at the Mount Ida campus of University of Massachusetts Amherst<br>(a satellite campus on the outskirts of Boston)<br>August 12th to 17th
     ~~~
 
     @@buttons
@@ -30,7 +30,7 @@
         ~~~
         <h5>Graduate Students, Postdocs, and Professionals</h5>
         ~~~
-        Graduate students, postdocs, and professionals in Quantum Information Science who want to supercharge their classical programming skills in terms of:
+        Graduate students, postdocs, and professionals in Quantum Information Science who want to supercharge their classical programming skills.
       @@
       @@col-md,feature
         ~~~
