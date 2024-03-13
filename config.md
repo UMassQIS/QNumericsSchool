@@ -6,7 +6,7 @@ website_title = "Numerical Methods in Quantum Information Science"
 website_descr = "Summer School at the Mt Ida campus of UMass Amherst on the outskirts of Boston"
 website_url = "https://qnumerics.org"
 website_img = "/assets/images/logo-umass.png"
-website_footer = """Summer Shool on Numerical Methods in Quantum Information Science"""
+website_footer = """Summer School on Numerical Methods in Quantum Information Science"""
 
 ignore = []
 
