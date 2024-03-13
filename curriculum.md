@@ -83,10 +83,10 @@ In the extended sessions we will cover many of the following topics:
 <h3>Confirmed Lecturers</h3>
 ~~~
 
-Stefan Krastanov: CS and Physics professor at UMass Amherst, lead of the [`QuantumClifford.jl`](https://github.com/Krastanov/QuantumClifford.jl) project and of the NSF Center for Quantum Networks virtual testbed
+**Stefan Krastanov**: CS and Physics professor at University of Massachusetts Amherst, lead of the [`QuantumClifford.jl`](https://github.com/Krastanov/QuantumClifford.jl) project and of the NSF Center for Quantum Networks virtual testbed
 
-Katharine Hyatt: Scientist at AWS quantum information science division and past member of the Flatiron institute
+**Katharine Hyatt**: Scientist at AWS quantum information science division and past member of the Flatiron institute
 
-Roger Luo: Compiler engineer for Quera, lead of the `Yao.jl` and related projects
+**Roger Luo**: Scientific Software Developer at QuEra Computing, PhD from Perimeter Institute Quantum Intelligence Lab (PIQuL) and University of Waterloo, lead of the `Yao.jl` and related projects
 
-Miles Stoudenmire: Scientist at the Flatiron Institute, lead of the [`ITensor`](https://itensor.org) framework, the most widespread tensor networks software
+**Miles Stoudenmire**: Scientist at the Flatiron Institute, lead of the [`ITensor`](https://itensor.org) framework, the most widespread tensor networks software
