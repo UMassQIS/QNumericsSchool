@@ -8,7 +8,7 @@ website_url = "https://qnumerics.org"
 website_img = "/assets/images/logo-umass.png"
 website_footer = """Summer Shool on Numerical Methods in Quantum Information Science"""
 
-ignore = ["CONTRIBUTING.md"]
+ignore = []
 
 prepath     = get(ENV, "PREVIEW_FRANKLIN_PREPATH", ".")
 website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "")

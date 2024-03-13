@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400i");
 
 :root {
-  --main-color: #881C1C;
+  --main-color: #3a5db7;
   --dark-color: color-mix(in srgb, var(--main-color) 80%, black);
   --vdark-color: color-mix(in srgb, var(--main-color) 40%, black);
   --light-color: color-mix(in srgb, var(--main-color) 80%, white);
@@ -91,7 +91,7 @@ body {
 .container img {
   max-width: 100%;
 }
-.container h1, .container h2, .container h3, .container h4, .container h5, .container p, .container blockquote, .container .hljs, .container ul :not(.navbar-nav) {
+.container .container, .container h1, .container h2, .container h3, .container h4, .container h5, .container p, .container blockquote, .container .hljs, .container ul :not(.navbar-nav) {
   max-width: 650px;
   margin-left: auto;
   margin-right: auto;
@@ -256,6 +256,9 @@ pre code.hljs {
 .friends{
   background: #fff;
 }
+.friends .row {
+  align-items: baseline;
+}
 .friends *{
   text-align: center;
   padding:10px;
@@ -271,10 +274,15 @@ pre code.hljs {
   list-style: none;
   align-items: center;
 }
-.friends ul li img{
+.friends ul li{
   max-width: 200px;
   max-height: 100px;
   height: auto;
+}
+.friends img {
+  height: auto;
+  max-height:80pt;
+  max-width:80%;
 }
 
 .tight-list p {

@@ -2,7 +2,7 @@
 @@jumbotron,jumbotron-fluid,no-pad
   @@container
     ~~~
-    <img src="./assets/logo-placeholder.png" style="max-width:60%;padding-bottom:20px"/>
+    <img src="./assets/qnumerics-logo.png" style="max-width:60%;padding-bottom:20px"/>
     <h2>Numerical Methods <br>in Quantum Information Science</h2>
     Summer School at the Mt Ida campus of UMass Amherst on the outskirts of Boston
     ~~~
@@ -53,7 +53,7 @@
     @@row
       @@col-md-12,feature-title
         ~~~
-        <h2>Cirriculum</h2>
+        <h2>Curriculum</h2>
         ~~~
         Providing significant breadth of skills in QIS.
       @@
@@ -138,7 +138,7 @@
     @@row
       @@col-md-12,feature-title
         ~~~
-        <h2>Sponsors, Presenters, and Instructors</h2>
+        <h2>Sponsors, Presenters, and Instructors from</h2>
         ~~~
       @@
     @@
@@ -146,34 +146,46 @@
     @@row
       @@col-md
         ~~~
-        <img src="./assets/UMassAmherst_longform-RGB.png" style="max-height:60pt;">
+        <img src="./assets/UMassAmherst_longform-RGB.png">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/cqn-logo.png" style="background-color:black; max-height:50pt;">
+        <img src="./assets/friends/cqn-logo.png" style="background-color:black;">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/mit-logo.png" style="max-height:40pt;">
+        <img src="./assets/friends/nsf-logo.png">
         ~~~
       @@
     @@
     @@row
       @@col-md
         ~~~
-        <img src="./assets/friends/juliac-logo.png" style="max-height:40pt;">
+        <img src="./assets/friends/flatiron-institute-logo.png">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/quera-logo.svg" style="background-color:black; max-height:30pt;">
+        <img src="./assets/friends/amazon-braket-logo.jpg">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/nsf-logo.png" style="max-height:50pt;">
+        <img src="./assets/friends/quera-logo.svg" style="background-color:black;">
+        ~~~
+      @@
+
+    @@
+    @@row
+      @@col-md
+      @@
+      @@col-md
+      @@
+      @@col-md
+        ~~~
+        <img src="./assets/friends/mit-logo.png" style="max-height:50pt;">
         ~~~
       @@
 
