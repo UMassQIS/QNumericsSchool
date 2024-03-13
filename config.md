@@ -8,8 +8,7 @@ website_url = "https://qnumerics.org"
 website_img = "/assets/images/logo-umass.png"
 website_footer = """
 Summer School on Numerical Methods in Quantum Information Science
-<br><small>logo by Mariya Krastanova</small>
-<br><small>Powered by <a href="https://github.com/tlienart/Franklin.jl">Franklin</a> &amp; <a href="https://julialang.org/">Julia</a></small>
+<br><small>Powered by <a href="https://github.com/tlienart/Franklin.jl">Franklin</a> &amp; <a href="https://julialang.org/">Julia</a> | Logo by Mariya Krastanova</small>
 """
 
 ignore = []

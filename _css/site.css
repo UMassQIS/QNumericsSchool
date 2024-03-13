@@ -137,6 +137,10 @@ p a:hover {
   border-bottom: 2px solid var(--main-color);
 }
 
+.footer a, .footer a:hover, .footer a:visited, .footer a:visited:hover {
+  color: white;
+}
+
 .call {
   padding-top: 2em;
   padding-bottom: 2em;
