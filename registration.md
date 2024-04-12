@@ -14,7 +14,7 @@ The registration fee of 390\$ covers lodging from the evening of August 11th (Su
 @@row
 @@buttons
 ~~~
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSeVGjg9xI4arvmDWQKd5zgc24rkqvS1t2iD7GcPT8nGBd41Dg/viewform?usp=sf_link" role="button"><i class="fas fa-user-plus"></i> Register for the summer school (not for undergraduates)</a>
+<a class="btn btn-primary btn-lg" href="https://umass.irisregistration.com/Form/CICS" role="button"><i class="fas fa-user-plus"></i> Register for the summer school (not for undergraduates)</a>
 ~~~
 @@
 @@
@@ -24,7 +24,7 @@ The registration fee of 390\$ covers lodging from the evening of August 11th (Su
 
 ## Waitlist
 
-If you could not sign up before spots ran out, please [sign up for the waitlist](https://umass.irisregistration.com/Form/CICS). As more spots are made available, we will notify you.
+If you could not sign up before spots ran out, please [sign up for the waitlist](https://docs.google.com/forms/d/e/1FAIpQLScgXvgGy63KMqaknLgKKeVYcNsyX9t_hRvi1LKxdjaWC8pJhw/viewform?usp=sf_link). As more spots are made available, we will notify you.
 
 ## Independent attendees
 
