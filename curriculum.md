@@ -10,6 +10,8 @@ Most of the practice will be in the Julia programming language due to the ease w
 
 Multiple hackathons, will be available in the evenings, providing opportunities to work on personal research projects with the help of the instructors, and with bounties available for work on open source projects.
 
+The summer school will end with multiple showcases, workshops, and hackathons from academic and industry partners, demonstrating how the techniques discussed during the summer school are currently applied at the cutting edge of science.
+
 In the extended sessions we will cover many of the following topics:
 
 @@container
@@ -89,4 +91,6 @@ In the extended sessions we will cover many of the following topics:
 
 **Roger Luo**: Scientific Software Developer at QuEra Computing, PhD from Perimeter Institute Quantum Intelligence Lab (PIQuL) and University of Waterloo, lead of the `Yao.jl` and related projects
 
-**Miles Stoudenmire**: Scientist at the Flatiron Institute, lead of the [`ITensor`](https://itensor.org) framework, the most widespread tensor networks software
+**Miles Stoudenmire**: Scientist at the Flatiron Institute, senior developer of the [`ITensor`](https://itensor.org) framework, the most widespread tensor networks software
+
+**Unitary Fund**: The Unitary Fund will run a workshop on error mitigation and related technologies during the summer school

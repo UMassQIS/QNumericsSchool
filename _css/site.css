@@ -91,7 +91,7 @@ body {
 .container img {
   max-width: 100%;
 }
-.container .container, .container h1, .container h2, .container h3, .container h4, .container h5, .container p, .container blockquote, .container .hljs, .container ul :not(.navbar-nav) {
+.container .container, .container h1, .container h2, .container h3, .container h4, .container h5, .container p, .container blockquote, .container .hljs, .container iframe, .container ul :not(.navbar-nav) {
   max-width: 650px;
   margin-left: auto;
   margin-right: auto;

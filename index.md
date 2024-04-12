@@ -4,7 +4,7 @@
     ~~~
     <img src="./assets/qnumerics-logo.png" style="max-width:60%;padding-bottom:20px"/>
     <h2>Numerical Methods <br>in Quantum Information Science</h2>
-    Summer School at the Mount Ida campus of University of Massachusetts Amherst<br>(a satellite campus on the outskirts of Boston)<br>August 12th to 17th
+    Summer School at the Mount Ida campus of University of Massachusetts Amherst<br>(a satellite campus on the outskirts of Boston)<br>August 12th (Mon) - 18th (Sun)
     ~~~
 
     @@buttons
@@ -156,27 +156,9 @@
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/nsf-logo.png">
-        ~~~
-      @@
-    @@
-    @@row
-      @@col-md
-        ~~~
         <img src="./assets/friends/flatiron-institute-logo.png">
         ~~~
       @@
-      @@col-md
-        ~~~
-        <img src="./assets/friends/amazon-braket-logo.jpg">
-        ~~~
-      @@
-      @@col-md
-        ~~~
-        <img src="./assets/friends/quera-logo.svg" style="background-color:black;">
-        ~~~
-      @@
-
     @@
     @@row
       @@col-md
@@ -195,6 +177,39 @@
         ~~~
       @@
 
+    @@
+    @@row
+      @@col-md
+        ~~~
+        <img src="./assets/friends/unitaryfund-logo.png">
+        ~~~
+      @@
+      @@col-md
+        ~~~
+        <img src="./assets/friends/amazon-braket-logo.jpg">
+        ~~~
+      @@
+      @@col-md
+        ~~~
+        <img src="./assets/friends/quera-logo.svg" style="background-color:black;">
+        ~~~
+      @@
+
+    @@
+    @@row
+      @@col-md
+        ~~~
+        ~~~
+      @@
+      @@col-md
+        ~~~
+        <img src="./assets/friends/nsf-logo.png">
+        ~~~
+      @@
+      @@col-md
+        ~~~
+        ~~~
+      @@
     @@
 
   @@
