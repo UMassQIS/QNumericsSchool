@@ -151,7 +151,7 @@
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/cqn-logo.png" style="background-color:black;">
+        <img src="./assets/friends/cqn-logo-white.png">
         ~~~
       @@
       @@col-md
@@ -191,7 +191,7 @@
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/quera-logo.svg" style="background-color:black;">
+        <img src="./assets/friends/quera-logo-white.jpg">
         ~~~
       @@
 

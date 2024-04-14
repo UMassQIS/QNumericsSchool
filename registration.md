@@ -20,7 +20,15 @@ The registration fee of 390\$ covers lodging from the evening of August 11th (Su
 @@
 @@
 
-**Undergraduates are invited to apply for the school in a separate form below.**
+@@container
+@@row
+@@buttons
+~~~
+<a class="btn btn-primary btn-lg" href="https://umass.irisregistration.com/Form/CICS" role="button"><i class="fas fa-user-plus"></i> Application form for undergraduates</a>
+~~~
+@@
+@@
+@@
 
 ## Waitlist
 
