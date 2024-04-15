@@ -93,4 +93,4 @@ In the extended sessions we will cover many of the following topics:
 
 **Miles Stoudenmire**: Scientist at the Flatiron Institute, senior developer of the [`ITensor`](https://itensor.org) framework, the most widespread tensor networks software
 
-**Unitary Fund**: The Unitary Fund will run a workshop on error mitigation and related technologies during the summer school
+**Nathan Shammah**: CTO of Unitary Fund. The Unitary Fund will run a workshop on error mitigation and related technologies during the summer school
