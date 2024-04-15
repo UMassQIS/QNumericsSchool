@@ -2,9 +2,9 @@
 title = "Logistics"
 +++
 
-Consult back in August for more details on room keys and check-in.
+# Logistics
 
-## Logistics
+**Consult back in August for more details on room keys and check-in.**
 
 The cost of registration includes all lectures and hackathons, **as well as all lodging**.
 

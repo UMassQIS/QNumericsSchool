@@ -181,12 +181,13 @@
     @@row
       @@col-md
         ~~~
-        <img src="./assets/friends/unitaryfund-logo.png">
+        <img src="./assets/friends/unitaryfund-logo.png" style="max-height:70pt;">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/amazon-braket-logo.jpg">
+        <!--<img src="./assets/friends/amazon-braket-logo.jpg">-->
+        <img src="./assets/friends/nsf-logo.png">
         ~~~
       @@
       @@col-md
@@ -203,7 +204,6 @@
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/nsf-logo.png">
         ~~~
       @@
       @@col-md
