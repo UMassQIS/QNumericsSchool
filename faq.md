@@ -6,7 +6,7 @@ title = "Frequently Asked Questions"
 
 ## Do you provide certification?
 
-The summer school is an informal workshop meant to serve the research community, and as such it is not accredited to offer diplomas. Every attendee will receive an *unaccredited* attestation of their participation with description of the covered material. The organizers will be able to provide reffers of reference for hackathon participants as well.
+The summer school is an informal workshop meant to serve the research community, and as such it is not accredited to offer diplomas. Every attendee will receive an *unaccredited* attestation of their participation with description of the covered material. The organizers will be able to provide letters of reference for hackathon participants as well.
 
 ## What is included in the registration cost?
 
