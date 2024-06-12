@@ -10,11 +10,13 @@ Classes will be held morning and afternoon on Mon-Fri, small hackathons will be 
 
 The registration fee of 390\$ covers lodging from the evening of August 11th (Sunday) to the morning of August 18th (Sunday). A dinning hall is available on campus, but not included in the price. The dinning system of UMass Amherst's central campus has been winning [Best Campus Food](https://www.umass.edu/news/article/umass-amherst-earns-no-1-spot-seventh-time-best-campus-food-rankings-princeton-review) in the entirety of the US higher ed system for the better part of the last decade.
 
+**The main registration period is now closed, but a waitlist is available. If you do not need on-campus lodging, you can still register below as an independent attendee.**
+
 @@container
 @@row
 @@buttons
 ~~~
-<a class="btn btn-primary btn-lg" href="https://umass.irisregistration.com/Form/CICS" role="button"><i class="fas fa-user-plus"></i> Register for the summer school (not for undergraduates)</a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLScgXvgGy63KMqaknLgKKeVYcNsyX9t_hRvi1LKxdjaWC8pJhw/viewform?usp=sf_link" role="button"><i class="fas fa-user-plus"></i> Waitlist register for the summer school (not for undergraduates)</a>
 ~~~
 @@
 @@
@@ -24,15 +26,19 @@ The registration fee of 390\$ covers lodging from the evening of August 11th (Su
 @@row
 @@buttons
 ~~~
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSekyYOvVE0zxamqDNZYUFexdQQ45X2v5b8RADsmDWyCmdfKRg/viewform?usp=sf_link" role="button"><i class="fas fa-user-plus"></i> Application form for undergraduates</a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSekyYOvVE0zxamqDNZYUFexdQQ45X2v5b8RADsmDWyCmdfKRg/viewform?usp=sf_link" role="button"><i class="fas fa-user-plus"></i> Waitlist application form for undergraduates</a>
 ~~~
 @@
 @@
 @@
+
+<!--
 
 ## Waitlist
 
 If you could not sign up before spots ran out, please [sign up for the waitlist](https://docs.google.com/forms/d/e/1FAIpQLScgXvgGy63KMqaknLgKKeVYcNsyX9t_hRvi1LKxdjaWC8pJhw/viewform?usp=sf_link). As more spots are made available, we will notify you.
+
+-->
 
 ## Independent attendees
 
