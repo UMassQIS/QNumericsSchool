@@ -4,7 +4,7 @@
     ~~~
     <img src="./assets/qnumerics-logo.png" style="max-width:60%;padding-bottom:20px"/>
     <h2>Numerical Methods <br>in Quantum Information Science</h2>
-    Summer School at the Mount Ida campus of University of Massachusetts Amherst<br>(a satellite campus on the outskirts of Boston)<br>August 12th (Mon) - 18th (Sun)
+    Summer School at the Mount Ida campus of University of Massachusetts Amherst<br>(a satellite campus on the outskirts of Boston)<br>August 12th (Mon) - 18th (Sun)<br> co-located Mitiq workshop August 17th
     ~~~
 
     @@buttons
