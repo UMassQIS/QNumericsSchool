@@ -12,7 +12,10 @@ Multiple hackathons, will be available in the evenings, providing opportunities 
 
 The summer school will end with multiple showcases, workshops, and hackathons from academic and industry partners, demonstrating how the techniques discussed during the summer school are currently applied at the cutting edge of science.
 
-On Saturday August 17th, members of the [Unitary Fund](unitary.fund) technical team will host a workshop on quantum error mitigation (QEM) with the software package [Mitiq](https://github.com/unitaryfund/mitiq). We will cover QEM core concepts and techniques, Mitiq structure and interface, and deep dive into the techniques of Zero Noise Extrapolation and Digital Dynamical Decoupling. In the later part of the session, we will explore QEM on simulated noisy backends with benchmarks and calibration. The workshop will conclude in the evening with a Mitiq hackathon. 
+On Saturday August 17th, members of the [Unitary Fund](unitary.fund) technical team will host a workshop on quantum error mitigation (QEM) with the software package [Mitiq](https://github.com/unitaryfund/mitiq).
+We will cover QEM core concepts and techniques and the Mitiq structure and interface, with a deep dive into the techniques of Zero Noise Extrapolation and Digital Dynamical Decoupling. 
+In the later part of the session, we will explore QEM on simulated noisy backends with benchmarks and calibration.
+The workshop will conclude in the evening with a Mitiq hackathon. 
 
 
 In the extended sessions we will cover many of the following topics:
