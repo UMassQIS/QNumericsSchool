@@ -17,7 +17,6 @@ We will cover QEM core concepts and techniques and the Mitiq structure and inter
 In the later part of the session, we will explore QEM on simulated noisy backends with benchmarks and calibration.
 The workshop will conclude in the evening with a Mitiq hackathon. 
 
-
 In the extended sessions we will cover many of the following topics:
 
 @@container
