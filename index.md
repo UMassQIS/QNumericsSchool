@@ -123,6 +123,11 @@
         <h5>APIs for control of commercial quantum hardware</h5>
         ~~~
       @@
+      @@col-sm,feature
+        ~~~
+        <h5>Quantum error mitigation</h5>
+        ~~~
+      @@
       @@col-md,feature
         ~~~
         <h5></h5>
