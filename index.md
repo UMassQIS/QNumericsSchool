@@ -9,7 +9,7 @@
 
     @@buttons
       ~~~
-      <a class="btn btn-primary btn-lg" href="https://qnumerics.org/registration" role="button"><i class="fas fa-user-plus"></i> Register (waitlist)</a>
+      <a class="btn btn-primary btn-lg" href="https://qnumerics.org/registration" role="button"><i class="fas fa-user-plus"></i> Registration is now closed</a>
       ~~~
     @@
   @@
