@@ -104,3 +104,5 @@ In the extended sessions we will cover many of the following topics:
 **Miles Stoudenmire**: Scientist at the Flatiron Institute, senior developer of the [`ITensor`](https://itensor.org) framework, the most widespread tensor networks software
 
 **Nathan Shammah**: CTO of Unitary Fund, with Unitary Fund Members of Technical Staff **Misty Wahl**, **Nate Stemen**, and **Jordan Sullivan**. The Unitary Fund will run a workshop on error mitigation with Mitiq and related technologies during the summer school.
+
+**Di Luo**： MIT fellow at NSF AI Institute for Artificial Intelligence and Fundamental Interactions, UCLA ECE assistant professor.
