@@ -99,9 +99,11 @@ In the extended sessions we will cover many of the following topics:
 
 **Katharine Hyatt**: Scientist at AWS quantum information science division and past member of the Flatiron institute
 
-**Roger Luo**: Scientific Software Developer at QuEra Computing, PhD from Perimeter Institute Quantum Intelligence Lab (PIQuL) and University of Waterloo, lead of the `Yao.jl` and related projects
+**Roger Luo**: Scientific Software Developer at QuEra Computing, PhD from Perimeter Institute Quantum Intelligence Lab (PIQuL) and University of Waterloo, lead of the `Yao.jl` and related projects.
 
-**Miles Stoudenmire**: Scientist at the Flatiron Institute, senior developer of the [`ITensor`](https://itensor.org) framework, the most widespread tensor networks software
+**Miles Stoudenmire** and **Karl Pierce**: Miles is a scientist at the Flatiron Institute, senior developer of the [`ITensor`](https://itensor.org) framework, the most widespread tensor networks software.
+
+**Aaron Trowbridge** and **Andy Goldschmidt**: Aaron is a staff research scientist with the Robotics Institute at Carnegie Mellon University, and Andy is a quantum computing postdoc in Computer Science at the University of Chicago. They are the developers of [Piccolo.jl](https://github.com/kestrelquantum), a modern trajectory optimization framework for quantum optimal control.
 
 **Nathan Shammah**: CTO of Unitary Fund, with Unitary Fund Members of Technical Staff **Misty Wahl**, **Nate Stemen**, and **Jordan Sullivan**. The Unitary Fund will run a workshop on error mitigation with Mitiq and related technologies during the summer school.
 
