@@ -4,6 +4,10 @@ title = "Curriculum"
 
 # Curriculum
 
+~~~
+<iframe style="margin-bottom:1em; border: solid black 1px;height:480pt;width:100%;max-width:100%;" src="https://docs.google.com/spreadsheets/d/1lDZRr2Uh-lsRdRYZgSbqk_g_9ntYnfabSM2cyv8bcMM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+~~~
+
 Five main topics will be covered: general engineering principles behind high performance numerical computing (including the use of accelerators like GPUs); state-vector simulation techniques; tensor network theory and practice; fast simulation of Clifford circuits and error correcting codes; quantum error mitigation with [Mitiq](https://github.com/unitaryfund/mitiq).
 
 Most of the practice will be in the Julia programming language due to the ease with which one can introduce low-level high-performance constructs in it, without losing the dynamic nature and ease of prototyping available in languages like Python. However, practical tips and guides will be provided for programming in Python, Rust, and C/C++, as well.
