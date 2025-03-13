@@ -4,21 +4,20 @@ title = "Registration"
 
 # Registration
 
-**Regrettably, registration is closed and we will not be able to accommodate more on-campus-lodging attendees. However, if you can arrange independent lodging for yourself, you are welcome to attend the lectures and hackathons -- please email [skrastanov@umass.edu](mailto:skrastanov@umass.edu) to reserve a spot**
 
-The summer school will be held between August 12th (Monday) and August 18th (Sunday), 2024, at the Mount Ida campus of University of Massachusetts Amherst.
+The summer school will be held between July 14th (Monday) and July 18th (Friday), 2025, in Amherst MA, at the University of Massachusetts Amherst campus.
 
-Classes will be held morning and afternoon on Mon-Fri, small hackathons will be held after dinner on Mon-Fri, and there will be a main hackathon wrap-up and potential project presentations on Saturday and Sunday morning.
+Classes will be held morning and afternoon on Mon-Fri, small hackathons will be held after dinner on Mon-Fri.
 
-The registration fee of 390\$ covers lodging from the evening of August 11th (Sunday) to the morning of August 18th (Sunday). A dinning hall is available on campus, but not included in the price. The dinning system of UMass Amherst's central campus has been winning [Best Campus Food](https://www.umass.edu/news/article/umass-amherst-earns-no-1-spot-seventh-time-best-campus-food-rankings-princeton-review) in the entirety of the US higher ed system for the better part of the last decade.
+The registration fee of 90\$ covers lodging from the evening of July 14th (Sunday) to the morning of July 19th (Saturday). A dinning hall is available on campus, but not included in the price. The dinning system of UMass Amherst's has been winning [Best Campus Food](https://www.umass.edu/news/article/umass-amherst-earns-no-1-spot-seventh-time-best-campus-food-rankings-princeton-review) in the entirety of the US higher ed system for the better part of the last decade.
 
-**The main registration period is now closed.**
+**The main registration period is not yet open.**
 
 @@container
 @@row
 @@buttons
 ~~~
-<a class="btn btn-primary btn-lg" href="" role="button"><i class="fas fa-user-plus"></i> Registration is closed</a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfWhn_RhJh0oWBq9vh6My98drPCGMQfglPoVeDJdNfLb1jwzA/viewform?usp=header" role="button"><i class="fas fa-user-plus"></i> Notify me when registration opens</a>
 ~~~
 @@
 @@

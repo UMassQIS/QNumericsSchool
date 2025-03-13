@@ -4,10 +4,7 @@ title = "Frequently Asked Questions"
 
 # Frequently Asked Questions
 
-
-The Mt Ida campus is **in Newton, on the outskirts of Boston**, NOT in Amherst! It is a campus that UMass Amherst recently established for more convenient access to the Boston area.
-
-Campus Security phone number 413-545-4777 (in case you get locked out, etc; for emergencies, always call 911 first).
+The summer school will take place in Amherst, MA, on the campus of UMass Amherst.
 
 ## Do you provide certification?
 
@@ -25,10 +22,6 @@ Power outlets and extension cords will be available in all lecture halls and wor
 
 Both Eduroam and guest access options exist for internet connectivity.
 
-## Is parking available?
-
-Free parking is plentiful on campus. Charging stations for EVs are available.
-
 ## What is included in the registration cost?
 
 Lodging and lectures are included in the cost. Meals are not included, but the dining hall on campus is very convenient. Breakfast snacks and coffee will be served at the lecture hall, and sweets will be served at the hackathon.
@@ -37,21 +30,23 @@ Lodging and lectures are included in the cost. Meals are not included, but the d
 
 Meals are not included in the registration cost, but the dining hall on campus is very convenient. Breakfast snacks and coffee will be served at the lecture hall in the morning, and sweets will be served at the hackathon.
 
-There will be a catered dinner on Thursday evening and the Saturday hackathon will be also a pizza party.
+We plan to provide a few catered dinners, but we have not finalized these plans.
 
 ## What are the housing facilities?
 
-The lodging will be at the Mt Ida campus in Newton.
+The lodging will be at the UMass Amherst campus in the "North Residential Area".
 
-Each registered graduate attendee will have a private room, with shared bathroom facilities on the floor. A small laundry room is available on the basement floor. A microwave oven is available in a small kitchenette.
-
-## Laundry?
-
-A small laundry room is available on the basement floor of the dorm building.
+The North Residential Area features
+air-conditioned apartment style
+living. Each apartment includes four
+single bedrooms, two full private
+bathrooms, and a shared living
+room/kitchen area. Each building also
+has a common area/lounge.
 
 ## A kitchen?
 
-A microwave oven is available in a small kitchenette.
+The lodging facilities have kitchens in each shared apartment.
 
 ## Gym?
 
