@@ -3,31 +3,43 @@
 
 <url>
     <loc>faq/index.html</loc>
-    <lastmod>2024-09-10</lastmod>
+    <lastmod>2025-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>index.html</loc>
-    <lastmod>2024-09-10</lastmod>
+    <lastmod>2025-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>2024curriculum/index.html</loc>
+    <lastmod>2025-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>2024/index.html</loc>
+    <lastmod>2025-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>logistics/index.html</loc>
-    <lastmod>2024-09-10</lastmod>
+    <lastmod>2025-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>registration/index.html</loc>
-    <lastmod>2024-09-10</lastmod>
+    <lastmod>2025-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>curriculum/index.html</loc>
-    <lastmod>2024-09-10</lastmod>
+    <lastmod>2025-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
