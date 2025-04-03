@@ -11,13 +11,13 @@ Classes will be held morning and afternoon on Mon-Fri, small hackathons will be 
 
 The registration fee of 90\$ covers lodging from the evening of July 14th (Sunday) to the morning of July 19th (Saturday). A dinning hall is available on campus, but not included in the price. The dinning system of UMass Amherst's has been winning [Best Campus Food](https://www.umass.edu/news/article/umass-amherst-earns-no-1-spot-seventh-time-best-campus-food-rankings-princeton-review) in the entirety of the US higher ed system for the better part of the last decade.
 
-**The main registration period is not yet open.**
+**Registration is now open!**
 
 @@container
 @@row
 @@buttons
 ~~~
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfWhn_RhJh0oWBq9vh6My98drPCGMQfglPoVeDJdNfLb1jwzA/viewform?usp=header" role="button"><i class="fas fa-user-plus"></i> Notify me when registration opens</a>
+<a class="btn btn-primary btn-lg" href="https://umass.irisregistration.com/Form/CICS" role="button"><i class="fas fa-user-plus"></i> Register now!</a>
 ~~~
 @@
 @@
