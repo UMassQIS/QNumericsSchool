@@ -30,7 +30,7 @@ Lodging and lectures are included in the cost. Meals are not included, but the d
 
 Meals are not included in the registration cost, but the dining hall on campus is very convenient. Breakfast snacks and coffee will be served at the lecture hall in the morning, and sweets will be served at the hackathon.
 
-The costs at the dining hall are Breakfast $12.00, Lunch $16.25, Dinner $19.25, and a 7% Tax.
+The costs at the dining hall are Breakfast \$12.00, Lunch \$16.25, Dinner \$19.25, and a 7% Tax.
 
 We plan to provide a few catered dinners, but we have not finalized these plans.
 
