@@ -23,28 +23,10 @@ The registration fee of 90\$ covers lodging from the evening of July 14th (Sunda
 @@
 @@
 
-<!--
-
 ## Waitlist
 
-If you could not sign up before spots ran out, please [sign up for the waitlist](https://docs.google.com/forms/d/e/1FAIpQLScgXvgGy63KMqaknLgKKeVYcNsyX9t_hRvi1LKxdjaWC8pJhw/viewform?usp=sf_link). As more spots are made available, we will notify you.
+If you could not sign up before spots ran out, please [sign up for the waitlist](https://docs.google.com/forms/d/e/1FAIpQLSd4I2js0jBv6m-JFftV1Bdx0QIf922luGvMXIReet5rc_gBLA/viewform?usp=sharing). As more spots are made available, we will notify you.
 
--->
-
-<!--
 ## Independent attendees
 
-If there is demand, we can make seats available to folks who want to attend the classes but want to find alternative lodging on their own. Please [express your interest in this form](https://docs.google.com/forms/d/e/1FAIpQLSdC63rMY1zZJPoM7lTb274hxQG2SF4RFtkmUjtkkytbmDOvvg/viewform?usp=sf_link) if you would like to attend in this manner. Registration for such attendance might require a small nominal fee (under \$50).
-
-## Undergraduate participants
-
-If you are an undergraduate interested in participating in the summer school, please apply through [this online form](https://docs.google.com/forms/d/e/1FAIpQLSekyYOvVE0zxamqDNZYUFexdQQ45X2v5b8RADsmDWyCmdfKRg/viewform?usp=sf_link).
-
-If you are admitted your registration fee will be waived. We will attempt to provide travel grants as well.
-
-## Attendance/Travel grants
-
-If the cost of the event or travel to the event is prohibitive, please message the organizers at [skrastanov@umass.edu](mailto:skrastanov@umass.edu) with a brief description of your background in the field and the reasons for your interest in the summer school. We will attempt to provide travel grants, as long as you have the baseline quantum science knowledge to take advantage of the summer school.
-
-If we can provide travel grants, there will be **NO** requirement to prove the cost of the event is prohibitive for grant applicants.
--->
+Seats are available to folks who want to attend the classes but want to find alternative lodging on their own. Please [register through this form](https://docs.google.com/forms/d/e/1FAIpQLScdeQ-nDop8QIqRBqL9-I4EJmYGhpSpEupuIPwk8TB2aHSNig/viewform?usp=sharing) if you would like to attend in this manner. Registration for such attendance might require a small nominal fee (under \$15).
