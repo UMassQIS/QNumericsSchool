@@ -9,7 +9,7 @@
 
     @@buttons
       ~~~
-      <a class="btn btn-primary btn-lg" href="https://umass.irisregistration.com/Form/CICS" role="button"><i class="fas fa-user-plus"></i> Register now!</a>
+      <a class="btn btn-primary btn-lg" href="./registration/" role="button"><i class="fas fa-user-plus"></i> Register now!</a>
       ~~~
     @@
   @@
