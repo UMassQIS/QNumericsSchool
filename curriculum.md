@@ -88,3 +88,7 @@ In the extended sessions we will cover many of the following topics:
 **Stefan Krastanov**: CS and Physics professor at University of Massachusetts Amherst, lead of the [`QuantumClifford.jl`](https://github.com/Krastanov/QuantumClifford.jl) project and of the NSF Center for Quantum Networks virtual testbed
 
 **Katharine Hyatt**: Core Julia developer, past scientist at AWS quantum information science division, and past member of the Flatiron institute
+
+**Andy Goldschmidt**: Postdoc at the University of Chicago, expert on optimal control algorithms for quantum technology.
+
+**Raye Kimmerer**: Former Master's student in MIT Julia lab.
