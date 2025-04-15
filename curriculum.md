@@ -89,6 +89,8 @@ In the extended sessions we will cover many of the following topics:
 
 **Katharine Hyatt**: Core Julia developer, past scientist at AWS quantum information science division, and past member of the Flatiron institute
 
+**Miles Stoudenmire**: Research Scientist at Flatiron Institute Center for Computational Quantum Physics, expert on tensor networks and one of the developers of the [ITensor library](https://itensor.org/).
+
 **Andy Goldschmidt**: Postdoc at the University of Chicago, expert on optimal control algorithms for quantum technology.
 
 **Raye Kimmerer**: Former Master's student in MIT Julia lab.
