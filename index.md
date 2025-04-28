@@ -36,7 +36,7 @@
         ~~~
         <h5>Exceptional Undergraduates</h5>
         ~~~
-        Talented undergrads will be admitted on case-by-case basis after reviewing their applications. Free admission and travel grants will be available to undergraduates.
+        Talented undergrads will be admitted on case-by-case basis after reviewing their applications. Free admission will be available to undergraduates.
       @@
       @@col-md,feature
         ~~~
