@@ -94,3 +94,5 @@ In the extended sessions we will cover many of the following topics:
 **Andy Goldschmidt**: Postdoc at the University of Chicago, expert on optimal control algorithms for quantum technology.
 
 **Raye Kimmerer**: Former Master's student in MIT Julia lab.
+
+**Guus Avis**: Postdoc at University of Massachusetts Amherst, former PhD in the lab of Stephanie Wehner in Delft. Works on designing, optimizing and simulating quantum networks.
