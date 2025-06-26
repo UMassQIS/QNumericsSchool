@@ -292,3 +292,100 @@ pre code.hljs {
 .tight-list p {
   margin-bottom: 0;
 }
+
+/* Program page specific styles */
+.program-container {
+  margin-top: 2rem;
+}
+
+.day-container {
+  margin-bottom: 3rem;
+  border: 1px solid var(--light-color);
+  border-radius: 12px;
+  padding: 2rem;
+  background: #fafafa;
+}
+
+.day-container h3 {
+  color: var(--main-color);
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--light-color);
+}
+
+.session-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.session-card {
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-align: left;
+}
+
+.session-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.session-card strong:first-child {
+  color: var(--main-color);
+  font-size: 1.1rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.session-card p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  text-align: left;
+}
+
+.session-card ul {
+  margin-bottom: 1rem;
+  padding-left: 1.2rem;
+  text-align: left;
+}
+
+.session-card ul li {
+  margin-bottom: 0.3rem;
+  color: #555;
+  text-align: left;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .session-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .day-container {
+    padding: 1rem;
+  }
+  
+  .additional-info {
+    padding: 1.5rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  .session-card {
+    break-inside: avoid;
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+  
+  .day-container {
+    break-inside: avoid;
+    margin-bottom: 2rem;
+  }
+}
