@@ -12,6 +12,9 @@
       <a class="btn btn-primary btn-lg" href="./registration/" role="button"> Registration is now closed. </a>
       ~~~
     @@
+    ~~~
+    For questions about your existing registration please contact registration services at registration@umass.edu.
+    ~~~
   @@
 @@
 

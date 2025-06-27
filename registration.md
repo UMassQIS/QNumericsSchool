@@ -6,6 +6,8 @@ title = "Registration"
 
 **Registration is now closed.**
 
+**For questions about your existing registration please contact registration services at registration@umass.edu.**
+
 The summer school will be held between July 14th (Monday) and July 18th (Friday), 2025, in Amherst MA, at the University of Massachusetts Amherst campus.
 
 Classes will be held morning and afternoon on Mon-Fri, small hackathons will be held after dinner on Mon-Fri.
