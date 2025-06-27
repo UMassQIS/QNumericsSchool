@@ -8,9 +8,9 @@ Five main topics will be covered: general engineering principles behind high per
 
 Most of the practice will be in the Julia programming language due to the ease with which one can introduce low-level high-performance constructs in it, without losing the dynamic nature and ease of prototyping available in languages like Python. However, practical tips and guides will be provided for programming in Python, Rust, and C/C++, as well.
 
-Multiple hackathons, will be available in the evenings, providing opportunities to work on personal research projects with the help of the instructors, and with bounties available for work on open source projects.
+Multiple hackathons will be available in the evenings, challenging you to try your new-learned skills at exercises and providing the opportunity to work on personal research projects with the help of the instructors.
 
-The summer school will end with multiple showcases, workshops, and hackathons from academic and industry partners, demonstrating how the techniques discussed during the summer school are currently applied at the cutting edge of science.
+**[→ View the detailed daily program schedule](./program/)**
 
 In the extended sessions we will cover many of the following topics:
 
@@ -82,7 +82,7 @@ In the extended sessions we will cover many of the following topics:
 
 
 ~~~
-<h3>Confirmed Lecturers</h3>
+<h3>Meet the instructors</h3>
 ~~~
 
 **Stefan Krastanov**: CS and Physics professor at University of Massachusetts Amherst, lead of the [`QuantumClifford.jl`](https://github.com/Krastanov/QuantumClifford.jl) project and of the NSF Center for Quantum Networks virtual testbed
