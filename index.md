@@ -5,11 +5,12 @@
     <img src="./assets/qnumerics-logo.png" style="max-width:60%;padding-bottom:20px"/>
     <h2>Numerical Methods <br>in Quantum Information Science <br>2025</h2>
     Summer School at the University of Massachusetts Amherst<br>July 14th (Mon) - 18th (Fri)
+    <h2>Registration has closed.</h2>
     ~~~
 
     @@buttons
       ~~~
-      <a class="btn btn-primary btn-lg" href="./registration/" role="button"> Registration is now closed. </a>
+      <a class="btn btn-primary btn-lg" href="./program/" role="button"> View Program </a>
       ~~~
     @@
   @@

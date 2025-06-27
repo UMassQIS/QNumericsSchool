@@ -6,6 +6,7 @@ title = "Program"
 
 The program spans five days (July 14-18), each composed of three sessions each (morning, afternoon, night).
 Every session will take place at University of Massachusetts Amherst, room A112 of the [LGRC Lowrise](https://events.umass.edu/lederle_graduate_research_center_lgrc_lowrise) building.
+For questions about the program contact [Guus Avis](mailto:gavis@umass.edu).
 
 ## Daily Schedule
 - **Morning session:** 8:00 AM - 12:00 AM
@@ -44,7 +45,7 @@ Includes:
 
 @@session-card
 **Night Session**  
-**Hands on: linear algebra** \\
+**Linear algebra** \\
 *Main instructor: Raye Kimmerer*
 
 Includes:
