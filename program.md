@@ -160,7 +160,7 @@ Includes:
 
 @@session-card
 **Night Session**  
-**Hackathon: HPC and tensor networks** \\
+**Hackathon: tensor networks** \\
 *Main instructors: Miles Stoudenmire*
 
 Working with ITensor.
@@ -198,7 +198,7 @@ Includes:
 
 @@session-card
 **Night Session**  
-**Hackathon: quantum networks** \\ 
+**Hackathon: HPC and quantum networks** \\
 *Main instructor: Stefan Krastanov, Raye Kimmerer*
 
 Two hackathon tracks:
