@@ -9,9 +9,9 @@ Every session will take place at University of Massachusetts Amherst, room A112 
 For questions about the program contact [Guus Avis](mailto:gavis@umass.edu).
 
 ## Daily Schedule
-- **Morning session:** 8:00 AM - 12:00 AM
-- **Afternoon session:** 1:00 PM - 5:00 PM  
-- **Night session:** 7:00 PM - 11:00 PM
+- **Morning session:** 9:00 AM - 12:00 AM
+- **Afternoon session:** 2:00 PM - 5:00 PM
+- **Night session:** 7:30 PM - 10:30 PM
 
 @@program-container
 
