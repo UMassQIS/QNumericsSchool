@@ -51,7 +51,6 @@ Includes:
 Includes:
 - How to do (fast) linear algebra
 - Sparse arrays
-- Start writing a state-vector simulation for quantum mechanics
 
 @@
 @@
