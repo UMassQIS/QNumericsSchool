@@ -66,7 +66,7 @@ Includes:
 *Main instructor: Katharine Hyatt*
 
 Includes:
-- Finishing writing a basic state-vector simulation (if needed)
+- Writing a basic state-vector simulation
 - Making that simulation increasingly more performant
 
 @@
@@ -110,7 +110,7 @@ How to use GPUs to make your code faster.
 **Optimal control of quantum systems** \\
 *Main instructor: Andy Goldschmidt*
 
-Andy, Aaron and Jack will teach us about how to achieve optimal control for quantum systems.
+Andy and Jack will teach us about how to achieve optimal control for quantum systems.
 Includes getting hands on with their package Piccolo.jl.
 
 
