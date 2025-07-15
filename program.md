@@ -98,20 +98,20 @@ Continues the previous session.
 @@session-grid
 @@session-card
 **Morning Session**  
-**GPU acceleration** \\ 
-*Main instructor: Katharine Hyatt*
-
-How to use GPUs to make your code faster.
-
-@@
-
-@@session-card
-**Afternoon Session**  
 **Optimal control of quantum systems** \\
 *Main instructor: Andy Goldschmidt*
 
 Andy and Jack will teach us about how to achieve optimal control for quantum systems.
 Includes getting hands on with their package Piccolo.jl.
+
+@@
+
+@@session-card
+**Afternoon Session**  
+**GPU acceleration** \\ 
+*Main instructor: Katharine Hyatt*
+
+How to use GPUs to make your code faster.
 
 
 @@
