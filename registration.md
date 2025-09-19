@@ -4,7 +4,7 @@ title = "Registration"
 
 # Registration
 
-**Registration is now closed.**
+**The 2025 edition of the summer school has concluded. Stay tuned for 2026!**
 
 **For questions about your existing registration please contact registration services at registration@umass.edu.**
 
