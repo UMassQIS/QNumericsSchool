@@ -11,7 +11,7 @@ current_year = "2026"
       <h1>Numerical Methods<br> in Quantum Information Science <br>QNumerics - 2026</h1>
     </div>
     <p>Summer School at the University of Massachusetts Amherst</p>
-    <p><strong>Early/Mid June 2026</strong> · Registration opens soon</p>
+    <p><strong>June 21st - 27th, 2026</strong> · Registration opens soon</p>
     <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeTQf2rPRAYtSyKS_WNdlleilef4BVvNs7IP3MINZFLBe9TwA/viewform?usp=header">Join the mailing list</a> to be notified when registration opens.</p>
     ~~~
 
