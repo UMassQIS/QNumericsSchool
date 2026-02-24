@@ -11,6 +11,8 @@ Summer School on Numerical Methods in Quantum Information Science
 <br><small>Powered by <a href="https://github.com/tlienart/Franklin.jl">Franklin</a> &amp; <a href="https://julialang.org/">Julia</a> | Logo by Mariya Krastanova</small>
 """
 
+current_year = "2025"
+
 ignore = []
 
 prepath     = get(ENV, "PREVIEW_FRANKLIN_PREPATH", ".")

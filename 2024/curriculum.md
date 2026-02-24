@@ -114,3 +114,4 @@ In the extended sessions we will cover many of the following topics:
 **Brian Doolittle**: Quantum Physicist and Simulation Tech Lead at Aliro Technologies. PhD in Quantum Information Theory from the University of Illinois Urbana-Champaign.
 
 **Di Luo**： MIT fellow at NSF AI Institute for Artificial Intelligence and Fundamental Interactions, UCLA ECE assistant professor.
+

@@ -1,17 +1,28 @@
-<!-- Header -->
++++
+title = "2026 Edition"
+current_year = "2026"
++++
+
 @@jumbotron,jumbotron-fluid,no-pad
   @@container
     ~~~
-    <img src="./assets/qnumerics-logo.png" style="max-width:60%;padding-bottom:20px"/>
-    <h2>Numerical Methods <br>in Quantum Information Science <br>2024</h2>
-    Summer School at the Mount Ida campus of University of Massachusetts Amherst<br>(a satellite campus on the outskirts of Boston)<br>August 12th (Mon) - 18th (Sun)<br> co-located Mitiq workshop August 17th
+    <div class="hero-lockup">
+      <img src="../assets/qnumerics-logo.png" alt="QNumerics"/>
+      <h1>Numerical Methods<br> in Quantum Information Science <br>QNumerics - 2026</h1>
+    </div>
+    <p>Summer School at the University of Massachusetts Amherst</p>
+    <p><strong>June 21st - 27th, 2026</strong> · Registration opens soon</p>
+    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeTQf2rPRAYtSyKS_WNdlleilef4BVvNs7IP3MINZFLBe9TwA/viewform?usp=header">Join the mailing list</a> to be notified when registration opens.</p>
     ~~~
 
     @@buttons
       ~~~
-      <a class="btn btn-primary btn-lg" href="https://qnumerics.org/registration" role="button"><i class="fas fa-user-plus"></i> Registration is now closed</a>
+      <a class="btn btn-primary btn-lg" href="./program/" role="button"> View Program </a>
       ~~~
     @@
+    ~~~
+    For questions about the upcoming edition please contact the organizers at lbacciottini@umass.edu or skrastanov@umass.edu.
+    ~~~
   @@
 @@
 
@@ -22,7 +33,9 @@
         ~~~
         <h2>Target audience</h2>
         ~~~
-        Folks with QIS expertise and baseline programming skills searching to significantly expand them.
+        ~~~
+        <p class="feature-subhead">Folks with QIS expertise and baseline programming skills searching to significantly expand them.</p>
+        ~~~
       @@
     @@
     @@row
@@ -36,13 +49,13 @@
         ~~~
         <h5>Exceptional Undergraduates</h5>
         ~~~
-        Talented undergrads will be admitted on case-by-case basis after reviewing their applications. Free admission and travel grants will be available to undergraduates.
+        Talented undergrads will be admitted on case-by-case basis after reviewing their applications. Free admission will be available to undergraduates.
       @@
       @@col-md,feature
         ~~~
         <h5>Hackers</h5>
         ~~~
-        The summer school will end with a hackathon where participants are empowered to make their first contribution to an open source project, flesh out the first software steps necessary for a novel result in QIS, or design and control quantum hardware.
+        The summer school will host hackathons where participants are empowered to make their first contribution to an open source project, flesh out the first software steps necessary for a novel result in QIS, or design and control quantum hardware.
       @@
     @@
   @@
@@ -55,7 +68,9 @@
         ~~~
         <h2>Curriculum</h2>
         ~~~
-        Providing significant breadth of skills in QIS.
+        ~~~
+        <p class="feature-subhead">Providing significant breadth of skills in QIS.</p>
+        ~~~
       @@
     @@
 
@@ -98,39 +113,17 @@
     @@row
       @@col-md,feature
         ~~~
-        <h5>Discrete event simulations (e.g. for networking)</h5>
-        ~~~
-      @@
-      @@col-md,feature
-        ~~~
-        <h5>Quantum chemistry</h5>
-        ~~~
-      @@
-      @@col-md,feature
-        ~~~
-        <h5>Symbolic computer algebra basics</h5>
-        ~~~
-      @@
-    @@
-    @@row
-      @@col-md,feature
-        ~~~
         <h5>Optimal control of quantum hardware</h5>
         ~~~
       @@
       @@col-md,feature
         ~~~
-        <h5>APIs for control of commercial quantum hardware</h5>
-        ~~~
-      @@
-      @@col-sm,feature
-        ~~~
-        <h5>Quantum error mitigation</h5>
+        <h5>Discrete event simulations (e.g. for networking)</h5>
         ~~~
       @@
       @@col-md,feature
         ~~~
-        <h5></h5>
+        <h5>Symbolic computer algebra basics</h5>
         ~~~
       @@
     @@
@@ -151,53 +144,32 @@
     @@row
       @@col-md
         ~~~
-        <img src="./assets/UMassAmherst_longform-RGB.png">
+        <img src="../assets/UMassAmherst_longform-RGB.png">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/cqn-logo-white.png">
+        <img src="../assets/friends/cqn-logo-white.png">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/flatiron-institute-logo.png">
+        <img src="../assets/friends/flatiron-institute-logo.png">
         ~~~
       @@
     @@
     @@row
       @@col-md
         ~~~
-        <img src="./assets/friends/uwaterloo-logo.png">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/piqil-logo.png">
+        <img src="../assets/friends/nsf-logo.png">
         ~~~
       @@
       @@col-md
         ~~~
-        <img src="./assets/friends/mit-logo.png" style="max-height:50pt;">
-        ~~~
-      @@
-
-    @@
-    @@row
-      @@col-md
-        ~~~
-        <img src="./assets/friends/unitaryfund-logo.png" style="max-height:70pt;">
-        ~~~
-      @@
-      @@col-md
-        ~~~
-        <!--<img src="./assets/friends/amazon-braket-logo.jpg">-->
-        <img src="./assets/friends/nsf-logo.png">
-        ~~~
-      @@
-      @@col-md
-        ~~~
-        <img src="./assets/friends/quera-logo-white.jpg">
         ~~~
       @@
 
@@ -219,3 +191,4 @@
 
   @@
 @@
+
